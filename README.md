@@ -1,2 +1,2 @@
-# schematics
-A collection of reusable code schematics—functions, snippets, and utilities crafted for seamless integration across projects.
+## Schematics
+Welcome to **Schematics**, this is a repo for common code to go. 
